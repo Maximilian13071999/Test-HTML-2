@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:ital,wght@0,100;0,500;0,700;1,700&display=swap');
+
+body {
+    max-width: 390px;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    font-size: 32px;
+}
+
+h1 {
+    color: #0000ff;
+    font-size: 32px;
+    background: gray;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+#one {
+    color: blue;
+}
+
+#two {
+    color: red;
+}
+
+#three {
+    color: orange;
+}
